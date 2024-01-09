@@ -167,7 +167,11 @@ body {
 
 .join-btn:hover {
     background: rgb(34, 255, 0);
+    transform: scale(1.2);
+    color: blueviolet;
     border: none;
+
+    
 }
 
 .wc-image-two {
@@ -245,10 +249,11 @@ body {
 }
 
 .park-btn:hover {
-    background: transparent;
-    border: 3px solid red;
+    background-color: rgb(224, 249, 199);
     cursor: pointer;
-    color: red;
+    color: rgb(54, 46, 2);
+    transform: scale(1.3);
+  
 }
 
 /* Coming Soon section */
@@ -421,8 +426,9 @@ body {
     transition: 0.5s all ease-in-out;
 }
 .images-box:hover{
-    transform: scale(0.5);
-    filter: brightness(30%);
+    transform: scale(2.3);
+   
+    
 }
 
 
@@ -506,6 +512,7 @@ body {
 
 #subscribe:hover {
     background: rgb(151, 77, 77);
+    color: #070211;
 }
 
 /*  Footer  Style */
