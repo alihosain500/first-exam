@@ -426,7 +426,7 @@ body {
     transition: 0.5s all ease-in-out;
 }
 .images-box:hover{
-    transform: scale(2.2);
+    transform: scale(2.3);
    
     
 }
